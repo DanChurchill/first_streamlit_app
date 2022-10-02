@@ -1,4 +1,1 @@
-# first_streamlit_app
-
-As part of the Snowflake course for Badge 2 I had to construct a repository to hold a python file.  This file connects to Streamlit and my Snowflake
-database to construct a simple menu app for a hypothetical restaurant that is transitioning to a healthy menu.
+As part of the Snowflake Data Applications course I created a Google form that uploaded results to my Snowflake Database, then built a Streamlit application using Python to read from an API as well as read/write to my Snowflake database tables.  The application can be seen at https://danchurchill-first-streamlit-app-streamlit-app-hpnx0m.streamlitapp.com/
